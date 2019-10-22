@@ -15,7 +15,7 @@ a.effect-shine:hover {
   from {
     -webkit-mask-position: 150%;
   }
-  
+
   to {
     -webkit-mask-position: -50%;
   }
@@ -23,7 +23,7 @@ a.effect-shine:hover {
 
 /*effect-underline*/
 a.effect-underline:after {
-	content: '';
+  content: '';
   position: absolute;
   left: 0;
   display: inline-block;
@@ -32,16 +32,16 @@ a.effect-underline:after {
   border-bottom: 1px solid;
   margin-top: 10px;
   opacity: 0;
-	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-	transition: opacity 0.35s, transform 0.35s;
-	-webkit-transform: scale(0,1);
-	transform: scale(0,1);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(0,1);
+  transform: scale(0,1);
 }
 
 a.effect-underline:hover:after {
   opacity: 1;
-	-webkit-transform: scale(1);
-	transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
 }
 
 a.effect-underwave {
@@ -65,8 +65,8 @@ a.effect-underwave:hover {
 
 /*effect-strech*/
 a.effect-strech {
-    letter-spacing: 0.5px;
-    font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a.effect-strech:hover,
