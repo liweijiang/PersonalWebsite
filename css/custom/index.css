@@ -102,14 +102,12 @@ a.effect-strech:hover:before {
 }
 
 
-
+/*profile introduction section*/
 .image-cropper-circle {
   width: 250px;
   height: 250px;
   overflow: hidden;
   border-radius: 50%;
-  position:absolute;
-  top: 12%;
   z-index:2;
 }
 
@@ -122,18 +120,9 @@ a.effect-strech:hover:before {
 .profile-pic-wrapper {
   display: flex;
   justify-content: center;
+  padding-top: 10%;
+  padding-bottom: 3%;
 }
-
-.intro-text-wrapper {
-  padding: 10px 10px 10px 10px;
-}
-
-
-
-
-
-
-
 
 
 
