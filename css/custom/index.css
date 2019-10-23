@@ -63,19 +63,19 @@ a.effect-underwave:hover {
 }
 
 
-/*effect-strech*/
-a.effect-strech {
+/*effect-stretch*/
+a.effect-stretch {
   letter-spacing: 0.5px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-a.effect-strech:hover,
-a.effect-strech:active {
+a.effect-stretch:hover,
+a.effect-stretch:active {
   letter-spacing: 5px;
 }
 
-a.effect-strech:after,
-a.effect-strech:before {
+a.effect-stretch:after,
+a.effect-stretch:before {
   backface-visibility: hidden;
   border: 1px solid rgba(#fff, 0);
   bottom: 0px;
@@ -87,15 +87,15 @@ a.effect-strech:before {
   width: 0;
 }
 
-a.effect-strech:hover:after,
-a.effect-strech:hover:before {
+a.effect-stretch:hover:after,
+a.effect-stretch:hover:before {
   backface-visibility: hidden;
   border-color: #fff;
   transition: width 350ms ease-in-out;
   width: 70%;
 }
 
-a.effect-strech:hover:before {
+a.effect-stretch:hover:before {
   bottom: auto;
   top: 0;
   width: 70%;
@@ -120,8 +120,8 @@ a.effect-strech:hover:before {
 .profile-pic-wrapper {
   display: flex;
   justify-content: center;
-  padding-top: 10%;
-  padding-bottom: 3%;
+  padding-top: 8%;
+  padding-bottom: 2%;
 }
 
 .introduction-wrapper {
