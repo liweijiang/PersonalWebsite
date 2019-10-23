@@ -124,7 +124,10 @@ a.effect-strech:hover:before {
   padding-bottom: 3%;
 }
 
-
+.introduction-wrapper {
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
 
 
 
