@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/project_englishbot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project_gmat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project_migraine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project_stress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Liwei_Jiang_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Liwei_Jiang_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Liwei_Jiang_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/Liwei_Jiang_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookbuddy_bibtex.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/bibtex/bookbuddy_bibtex.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookbuddy_las2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/bookbuddy_las2019.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/careers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/hero_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/hero_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/hero_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/img_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/person_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/person_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/person_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/person_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/person_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/post_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/default/technology.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quizbot-chi2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/quizbot-chi2019.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quizbot_bibtex.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/bibtex/quizbot_bibtex.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quizbot_slides.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/quizbot_slides.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +52,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="147" selection-start-line="147" selection-end-line="165" selection-end-column="10" />
+            <state relative-caret-position="378">
+              <caret line="250" column="33" lean-forward="true" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,17 +68,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+            <state relative-caret-position="858">
+              <caret line="130" selection-start-line="130" selection-end-line="130" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>row</find>
+      <find>Pro</find>
+      <find>circle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -47,18 +96,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/project_quizbot.html" />
+        <option value="$PROJECT_DIR$/project_bookbuddy.html" />
         <option value="$PROJECT_DIR$/css/custom/index.css" />
+        <option value="$PROJECT_DIR$/project/project_migraine.html" />
+        <option value="$PROJECT_DIR$/project/project_stress.html" />
         <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/liweijiang.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -73,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,20 +135,33 @@
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="liweijiang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liweijiang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pdf" />
+      <recent name="$PROJECT_DIR$/src/bibtex" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,25 +185,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571801354227</updated>
-      <workItem from="1571801355424" duration="8152000" />
+      <workItem from="1571801355424" duration="8258000" />
+      <workItem from="1572060493318" duration="5545000" />
+      <workItem from="1572304870555" duration="57000" />
+      <workItem from="1576521536615" duration="4791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8152000" />
+    <option name="totallyTimeSpent" value="18651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="23" width="1573" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25930765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -154,27 +209,76 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/project_quizbot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_bookbuddy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_stress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_migraine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bibtex/bookbuddy_bibtex.bib">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+        <state relative-caret-position="858">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="147" selection-start-line="147" selection-end-line="165" selection-end-column="10" />
+        <state relative-caret-position="378">
+          <caret line="250" column="33" lean-forward="true" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
