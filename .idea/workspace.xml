@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/project_englishbot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project_gmat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project_migraine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project_stress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Liwei_Jiang_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/Liwei_Jiang_CV.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookbuddy_bibtex.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/bibtex/bookbuddy_bibtex.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bookbuddy_las2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/bookbuddy_las2019.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/careers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/hero_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/hero_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/hero_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/img_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/person_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/person_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/person_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/person_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/person_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/post_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/default/technology.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quizbot-chi2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/quizbot-chi2019.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quizbot_bibtex.bib" beforeDir="false" afterPath="$PROJECT_DIR$/src/bibtex/quizbot_bibtex.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/quizbot_slides.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf/quizbot_slides.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="250" column="33" lean-forward="true" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
+            <state relative-caret-position="571">
+              <caret line="105" column="36" lean-forward="true" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -188,12 +147,12 @@
       <workItem from="1571801355424" duration="8258000" />
       <workItem from="1572060493318" duration="5545000" />
       <workItem from="1572304870555" duration="57000" />
-      <workItem from="1576521536615" duration="4791000" />
+      <workItem from="1576521536615" duration="5115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18651000" />
+    <option name="totallyTimeSpent" value="18975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="23" width="1573" height="1027" extended-state="0" />
@@ -277,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="250" column="33" lean-forward="true" selection-start-line="250" selection-start-column="33" selection-end-line="250" selection-end-column="33" />
+        <state relative-caret-position="571">
+          <caret line="105" column="36" lean-forward="true" selection-start-line="105" selection-start-column="36" selection-end-line="105" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
