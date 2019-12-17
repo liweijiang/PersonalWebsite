@@ -2,42 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/life.html" beforeDir="false" afterPath="$PROJECT_DIR$/life.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/object_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/object_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/sea_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/sea_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/seattle_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/seattle_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/photography/suzhou_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/photography/suzhou_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/art/art_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/art/art_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/art/art_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/art/art_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/art/art_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/art/art_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/cook/cook_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/cook/cook_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/cook/cook_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/cook/cook_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/cook/cook_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/person/person_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/person/person_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/object_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/sea_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/seattle_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/photography/original/suzhou_6.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/life.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="445">
+              <caret line="56" column="92" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -189,12 +208,12 @@
       <workItem from="1571801355424" duration="8258000" />
       <workItem from="1572060493318" duration="5545000" />
       <workItem from="1572304870555" duration="57000" />
-      <workItem from="1576521536615" duration="9990000" />
+      <workItem from="1576521536615" duration="10167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23850000" />
+    <option name="totallyTimeSpent" value="24027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="23" width="1573" height="1027" extended-state="0" />
@@ -302,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/life.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="445">
+          <caret line="56" column="92" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
