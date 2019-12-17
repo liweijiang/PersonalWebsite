@@ -1,0 +1,17 @@
+.header-cropper {
+    height: 100px;
+    width: auto;
+    overflow: hidden;
+    z-index:2;
+}
+
+.image-cropper-block {
+    height: 300px;
+    width: auto;
+    max-width: 450px;
+    overflow: hidden;
+    /*border-radius: 50%;*/
+    z-index:2;
+}
+
+
