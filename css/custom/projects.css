@@ -14,8 +14,12 @@
     z-index:2;
 }
 
-
-
 .text-box {
     line-height: 30px;
+}
+
+.br-title {
+    display: block; /* makes it have a width */
+    content: ""; /* clears default height */
+    margin-top: 15px; /* change this to whatever height you want it */
 }
