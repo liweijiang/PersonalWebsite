@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/custom/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_bookbuddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_bookbuddy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_englishbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_englishbot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/project_gmat.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_gmat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_quizbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_quizbot.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +17,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/project/project_englishbot.html">
+        <entry file="file://$PROJECT_DIR$/src/project/project_gmat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="129" column="55" selection-start-line="129" selection-start-column="55" selection-end-line="129" selection-end-column="55" />
+            <state relative-caret-position="699">
+              <caret line="190" selection-start-line="190" selection-end-line="190" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/project/project_bookbuddy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="187" selection-start-line="187" selection-end-line="200" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -55,7 +68,6 @@
         <option value="$PROJECT_DIR$/project/project_stress.html" />
         <option value="$PROJECT_DIR$/life.html" />
         <option value="$PROJECT_DIR$/css/custom/life.css" />
-        <option value="$PROJECT_DIR$/src/project/project_gmat.html" />
         <option value="$PROJECT_DIR$/src/project/project_migraine.html" />
         <option value="$PROJECT_DIR$/src/project/project_stress.html" />
         <option value="$PROJECT_DIR$/src/project/project_dance.html" />
@@ -63,9 +75,10 @@
         <option value="$PROJECT_DIR$/src/project/project_graphics.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/custom/projects.css" />
-        <option value="$PROJECT_DIR$/src/project/project_bookbuddy.html" />
         <option value="$PROJECT_DIR$/src/project/project_quizbot.html" />
         <option value="$PROJECT_DIR$/src/project/project_englishbot.html" />
+        <option value="$PROJECT_DIR$/src/project/project_bookbuddy.html" />
+        <option value="$PROJECT_DIR$/src/project/project_gmat.html" />
       </list>
     </option>
   </component>
@@ -160,18 +173,19 @@
       <workItem from="1572060493318" duration="5545000" />
       <workItem from="1572304870555" duration="57000" />
       <workItem from="1576521536615" duration="17896000" />
-      <workItem from="1576698608551" duration="14727000" />
+      <workItem from="1576698608551" duration="17656000" />
+      <workItem from="1576888011915" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46483000" />
+    <option name="totallyTimeSpent" value="49692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1474" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19134079" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19413407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,16 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_gmat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_migraine.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="688">
@@ -296,16 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="210" column="20" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom/projects.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -313,27 +307,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_bookbuddy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="92" selection-start-line="92" selection-start-column="4" selection-end-line="102" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="139" column="143" lean-forward="true" selection-start-line="139" selection-start-column="143" selection-end-line="139" selection-end-column="143" />
+        <state relative-caret-position="880">
+          <caret line="155" column="60" selection-start-line="155" selection-start-column="60" selection-end-line="155" selection-end-column="73" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="128" selection-start-line="128" selection-end-line="131" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_bookbuddy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="187" selection-start-line="187" selection-end-line="200" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_englishbot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="129" column="55" selection-start-line="129" selection-start-column="55" selection-end-line="129" selection-end-column="55" />
+        <state relative-caret-position="299">
+          <caret line="168" selection-start-line="168" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_gmat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
