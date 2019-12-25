@@ -2,63 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/1-suzanne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/44-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/4_ray_aliasing-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/62.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/63.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/92.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/93.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/94.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/AA_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 10.16.23 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 4.41.29 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 4.56.20 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 6.59.39 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 7.04.14 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 8.15.23 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 8.46.06 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-10-01 at 8.50.46 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-11-01 at 10.31.26 AM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-11-01 at 11.13.23 AM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-12-13 at 12.37.49 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-12-13 at 12.38.12 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/Screen Shot 2018-12-13 at 5.20.08 PM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/SpongeBob.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/bob2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/bob3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/cel_shading_cruiser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/cube4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/deer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/gumbo1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/gumbo2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/jet.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/lamp2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/lamp3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/non-suzanne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/phongplanet.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/phongplanet2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/scene1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/scene5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/set2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/shadechair1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/shadechair3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/shadechair5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/shadechair6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/spotlight2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/teapot1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/teapot2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/tree1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/zbuffer2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/zbuffer3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/project/graphics/zbuffer4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_graphics.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_graphics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/life.html" beforeDir="false" afterPath="$PROJECT_DIR$/life.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_turtle.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_turtle.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,23 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="315" column="22" selection-start-line="315" selection-start-column="22" selection-end-line="315" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/project/project_graphics.html">
+        <entry file="file://$PROJECT_DIR$/life.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="342" column="127" lean-forward="true" selection-start-line="342" selection-start-column="127" selection-end-line="342" selection-end-column="127" />
+            <state relative-caret-position="523">
+              <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -122,7 +55,6 @@
         <option value="$PROJECT_DIR$/css/custom/index.css" />
         <option value="$PROJECT_DIR$/project/project_migraine.html" />
         <option value="$PROJECT_DIR$/project/project_stress.html" />
-        <option value="$PROJECT_DIR$/life.html" />
         <option value="$PROJECT_DIR$/css/custom/life.css" />
         <option value="$PROJECT_DIR$/src/project/project_migraine.html" />
         <option value="$PROJECT_DIR$/src/project/project_stress.html" />
@@ -133,8 +65,9 @@
         <option value="$PROJECT_DIR$/src/project/project_bookbuddy.html" />
         <option value="$PROJECT_DIR$/src/project/project_gmat.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/project/project_turtle.html" />
         <option value="$PROJECT_DIR$/src/project/project_graphics.html" />
+        <option value="$PROJECT_DIR$/src/project/project_turtle.html" />
+        <option value="$PROJECT_DIR$/life.html" />
       </list>
     </option>
   </component>
@@ -148,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,18 +153,19 @@
       <workItem from="1576521536615" duration="17896000" />
       <workItem from="1576698608551" duration="17656000" />
       <workItem from="1576888011915" duration="3633000" />
-      <workItem from="1577128118866" duration="3292000" />
+      <workItem from="1577128118866" duration="3404000" />
+      <workItem from="1577312081026" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56337000" />
+    <option name="totallyTimeSpent" value="56750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1474" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19692737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19972067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,16 +210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="104" selection-start-line="104" selection-end-line="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="234" column="14" lean-forward="true" selection-end-line="255" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,19 +291,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_turtle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
+        <state relative-caret-position="4725">
           <caret line="315" column="22" selection-start-line="315" selection-start-column="22" selection-end-line="315" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -389,8 +303,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_graphics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="342" column="127" lean-forward="true" selection-start-line="342" selection-start-column="127" selection-end-line="342" selection-end-column="127" />
+        <state relative-caret-position="5130">
+          <caret line="342" column="127" selection-start-line="342" selection-start-column="127" selection-end-line="342" selection-end-column="127" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_turtle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepros-6.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
