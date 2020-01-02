@@ -86,17 +86,16 @@
 
             <div class="row align-items-stretch">
                 <div class="col-lg-1 col-md-6 mb-5 text-center"></div>
+
                 <div class="col-lg-4 col-md-6 mb-5 text-center">
-<!--                    <h1 class="text-primary font-weight-bold font-size-20">EnglishBot</h1>-->
-<!--                    <br class="br-title">-->
+                    <h1 class="text-primary font-weight-bold font-size-20">CNN-VAE Applied to GMAT Dataset</h1>
                     <img src="../images/project/project_gmat_1.png" alt="Image" class="img-fluid">
                 </div>
 
                 <div class="col-lg-2 col-md-6 mb-5 text-center"></div>
 
                 <div class="col-lg-4 col-md-6 mb-5 text-center">
-<!--                    <h1 class="text-primary font-weight-bold font-size-20">Listen-and-repeat</h1>-->
-<!--                    <br class="br-title">-->
+                    <h1 class="text-primary font-weight-bold font-size-20">Pipeline Overview</h1>
                     <img src="../images/project/project_gmat_2.png" alt="Image" class="img-fluid">
                 </div>
                 <div class="col-lg-1 col-md-6 mb-5 text-center"></div>
@@ -112,38 +111,57 @@
         <div class="container">
             <div class="row align-items-stretch">
                 <div class="col-lg-4 col-md-6 mb-5">
-                    <img src="../images/project/project_bookbuddy_5.png" alt="Image" class="img-fluid">
-                    <!--                    <p></p>-->
-                    <!--                    <img src="../images/project/project_quizbot_2.gif" alt="Image" class="img-fluid">-->
+                    <img src="../images/project/project_gmat_6.png" alt="Image" class="img-fluid">
                 </div>
-                <div class="col-lg-1 col-md-6 mb-5"></div>
-                <div class="col-lg-7 col-md-6 mb-5">
-                    <h1 class="text-primary font-weight-bold font-size-30">What is BookBuddy?</h1>
+                <div class="col-lg-1 col-md-12 mb-5"></div>
+                <div class="col-lg-7 col-md-12 mb-5">
+                    <h1 class="text-primary font-weight-bold font-size-30">What is GMAT?</h1>
                     <h1 class="text-white font-size-20 text-box">
-                        <!--                        QuizBot is an AI-powered chatbot to help college students review questions through natural-language conversations.-->
+                        GMAT is a computer adaptive test (CAT) used in admission to graduate management programs.
+                    </h1>
+                </div>
+
+                <div class="col-lg-12 col-md-12 mb-5">
+
+                    <h1 class="text-primary font-weight-bold font-size-30"><br>What is the problem?</h1>
+                    <h1 class="text-white font-size-20 text-box">
+                        On average, students can have 0.25 - 0.3% correct rate increase per practicing 100 questions.
+                        To achieve success in a GMAT class, students need plenty of practices before the real test.
+                        However, questions received on GMAT get harder or easier based on how well testers perform, and GMAT releases little information about the scoring rubric.
+                        Thus, it is almost impossible to predict GMAT score based on the scaled section scores of mock exams with 100% accuracy.<br><br>
+                        There are many online test prep platforms that offer mock standardized exams including GMAT.
+                        It is very useful to make use of online practicing records to predict the actual exam scores to help students manage their study progress.
                     </h1>
 
-                    <h1 class="text-primary font-weight-bold font-size-30"><br>Hypothesis</h1>
+                    <h1 class="text-primary font-weight-bold font-size-30"><br>Solution</h1>
                     <h1 class="text-white font-size-20 text-box">
-                        <!--                        Advances in conversational AI have the potential to enable more engaging and effective ways to teach factual knowledge.-->
+                        Collecting labeled data in educational data mining (EDM) is a time- and cost-consuming task.
+                        However, unlabeled data is in high volumes from MOOCs and intelligent tutoring systems.
+                        It is possible to use semi-supervised learning to extract useful features from the unlabeled data to boost model performance on the labeled data.<br><br>
+                        To solve our research question, we leveraged a Variational Auto-encoder (VAE) to predict students’ real GMAT scores based on their practice records from online test prep services to help them better prepare for the exam.
                     </h1>
 
-                    <h1 class="text-primary font-weight-bold font-size-30"><br>Systems</h1>
+                    <h1 class="text-primary font-weight-bold font-size-30"><br>Data</h1>
                     <h1 class="text-white font-size-20 text-box">
-                        <!--                        To investigate this hypothesis, we created QuizBot, a dialogue-based agent that helps students learn factual knowledge in science, safety, and English vocabulary. We compared QuizBot against a Flashcard app, the traditional medium for learning factual knowledge.-->
+                        We obtained the dataset from TAL Education Group, the largest online education corporation in China, that provides online test prep for various standardized exams including GMAT.
+                        The data consists of 3 datasets: Question, User Information, and Exercise Record.
+                        Each student has a sequence of exercise records, forming a learning trajectory that can be used to predict real GMAT scores.
                     </h1>
+                    <img src="../images/project/project_gmat_4.png" alt="Image" class="img-fluid">
 
-                    <h1 class="text-primary font-weight-bold font-size-30"><br>Study</h1>
-                    <h1 class="text-white font-size-20 text-box">
-                        <!--                        We evaluated QuizBot with 76 students through two within-subject studies against the Flashcard app.-->
-                        <!--                        Though both systems used the same algorithm for sequencing materials, QuizBot led to students recognizing (and recalling) over 20% more correct answers than when students used the flashcard app.-->
-                        <!--                        Using a conversational agent is more time consuming to practice with; but in a second study, of their own volition, students spent 2.6x more time learning with QuizBot than with flashcards and reported preferring it strongly for casual learning.-->
-                        <!--                        Our results in this second study showed QuizBot yielded improved learning gains over Flashcard on recall.-->
-                    </h1>
+                    <h1 class="text-primary font-weight-bold font-size-30"><br>Data Processing</h1>
+                    <img src="../images/project/project_gmat_5.png" alt="Image" class="img-fluid">
 
-                    <h1 class="text-primary font-weight-bold font-size-30"><br>Implication</h1>
+
+                    <h1 class="text-primary font-weight-bold font-size-30"><br>Method</h1>
                     <h1 class="text-white font-size-20 text-box">
-                        <!--                        Our results suggest that educational chatbot systems may have beneficial use, particularly for learning outside of traditional settings.</h1>-->
+                        Variational auto-encoder (VAE) consists an encoder that transforms inputs into low-dimensional representations, and a decoder that reconstructs inputs based on such representations.
+                        VAE can learn an efficient feature embedding using unlabeled data to improve the performance of standard supervised learning algorithms.
+                        We encoded learning trajectories into Question Embedding Matrices. We took trajectories of length 250 for each user. Each question id and correctness id is represented by an array of length 256 and 4 respectively.<br><br>
+                        We first trained the CNN-VAE Network using our unlabeled user data.
+                        Distribution z is a low dimensional representation of the Question Embedding Matrix.
+                        After the CNN-VAE is trained, we fed the labeled user data into the encoder of CNN-VAE to generate distribution z for labeled users.
+                        Finally, we concatenate VAE with hand-engineered features to train four standard supervised learning models.
                     </h1>
                 </div>
             </div>
@@ -158,10 +176,12 @@
                 <div class="col-lg-12 col-md-6 mb-5">
                     <h1 class="text-primary font-weight-bold">Roles</h1>
                     <h1 class="font-size-20 text-box"><br>
-                        <!--                        &bull; As the lead developer, together with five other programmers, developed the front and back ends of QuizBot, a dialogue-based conversational agent embedded in Facebook Messenger app, via Python3, AWS and SES Flask<br>-->
-                        <!--                        &bull; Devised a full-stack Apache Cordova Flashcard app via HTML and JavaScript, deployed to the iOS and Android platforms<br>-->
-                        <!--                        &bull; Together with two other researchers, conducted two within-subject studies with 76 users to compare the learning engagement and outcomes using QuizBot and Flashcard<br>-->
-                        <!--                        &bull; Submitted a paper that describes our work and results to CHI 2019 as the second author-->
+                        &bull; Pre-processed the raw data of over 8,000,000 GMAT question practicing records from 32,414 users of TAL Education Group’s online test preparation platform<br>
+                        &bull; Compiled a thorough statistical analysis report of students' in-system question practicing performance<br>
+                        &bull; Predicted GMAT test scores by training and testing baseline machine learning models (Linear Regression, Decision Tree, Gradient Tree, SVM etc.) on users with in-system question practicing records and reported real GMAT test scores<br>
+                        &bull; Constructed and trained the CNN-VAE model, and evaluated its ability of leveraging unlabelled user data to boost the accuracy of GMAT scores prediction<br>
+                        &bull; In preparation of a paper that presents our results
+<!--                        &bull; In preparation of a paper to be submitted to ACM Learning @ Scale (L@S) 2020 as the co-first author-->
                     </h1>
                 </div>
             </div>
