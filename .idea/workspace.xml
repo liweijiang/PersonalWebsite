@@ -5,15 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/life.html" beforeDir="false" afterPath="$PROJECT_DIR$/life.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_bookbuddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_bookbuddy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_dance.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_dance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_englishbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_englishbot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_gmat.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_gmat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_graphics.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_graphics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_migraine.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_migraine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_quizbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_quizbot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_stress.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_stress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/project_turtle.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_turtle.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +14,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1247">
+              <caret line="261" selection-start-line="261" selection-end-line="261" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#12425#12431#0" expanded="true" />
+                <element signature="e#12555#12561#0" expanded="true" />
+                <element signature="e#12756#12762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="115" selection-start-line="115" selection-end-line="119" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#11890#11896#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +59,7 @@
       <find>Pro</find>
       <find>circle</find>
       <find>Flashcard</find>
+      <find>youtu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,17 +75,17 @@
         <option value="$PROJECT_DIR$/project/project_stress.html" />
         <option value="$PROJECT_DIR$/css/custom/life.css" />
         <option value="$PROJECT_DIR$/css/custom/projects.css" />
-        <option value="$PROJECT_DIR$/life.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/project/project_bookbuddy.html" />
-        <option value="$PROJECT_DIR$/src/project/project_dance.html" />
         <option value="$PROJECT_DIR$/src/project/project_englishbot.html" />
         <option value="$PROJECT_DIR$/src/project/project_gmat.html" />
         <option value="$PROJECT_DIR$/src/project/project_migraine.html" />
         <option value="$PROJECT_DIR$/src/project/project_graphics.html" />
         <option value="$PROJECT_DIR$/src/project/project_quizbot.html" />
         <option value="$PROJECT_DIR$/src/project/project_stress.html" />
+        <option value="$PROJECT_DIR$/life.html" />
         <option value="$PROJECT_DIR$/src/project/project_turtle.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/project/project_dance.html" />
       </list>
     </option>
   </component>
@@ -152,15 +174,16 @@
       <workItem from="1577128118866" duration="3404000" />
       <workItem from="1577312081026" duration="2994000" />
       <workItem from="1577990989295" duration="5978000" />
-      <workItem from="1578004513022" duration="670000" />
+      <workItem from="1578004513022" duration="6940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66091000" />
+    <option name="totallyTimeSpent" value="72361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1583" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19013627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,43 +250,12 @@
     <entry file="file://$PROJECT_DIR$/prepros-6.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="350" column="215" selection-start-line="350" selection-start-column="215" selection-end-line="350" selection-end-column="215" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="249" column="18" lean-forward="true" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_bookbuddy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="215" column="202" lean-forward="true" selection-start-line="215" selection-start-column="202" selection-end-line="215" selection-end-column="202" />
           <folding>
             <element signature="e#11991#11997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="134" column="203" selection-start-line="134" selection-start-column="203" selection-end-line="134" selection-end-column="203" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5459#5465#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -290,17 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="215" column="203" selection-start-line="215" selection-start-column="203" selection-end-line="215" selection-end-column="203" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11890#11896#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/project/project_stress.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -308,17 +289,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#5526#5532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_turtle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="206" column="203" selection-start-line="206" selection-start-column="203" selection-end-line="206" selection-end-column="203" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10357#10363#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -340,6 +310,61 @@
           <caret line="193" column="203" selection-start-line="193" selection-start-column="203" selection-end-line="193" selection-end-column="203" />
           <folding>
             <element signature="e#10697#10703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_turtle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="121" selection-start-line="121" selection-end-line="193" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10357#10363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="246" column="203" selection-start-line="246" selection-start-column="203" selection-end-line="246" selection-end-column="203" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="115" selection-start-line="115" selection-end-line="119" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11890#11896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12425#12431#0" expanded="true" />
+            <element signature="e#12555#12561#0" expanded="true" />
+            <element signature="e#12756#12762#0" expanded="true" />
           </folding>
         </state>
       </provider>
