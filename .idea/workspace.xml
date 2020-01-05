@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/life.html" beforeDir="false" afterPath="$PROJECT_DIR$/life.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_dance.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_dance.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +16,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1247">
-              <caret line="261" selection-start-line="261" selection-end-line="261" />
+            <state relative-caret-position="421">
+              <caret line="265" column="46" lean-forward="true" selection-start-line="265" selection-start-column="46" selection-end-line="265" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#11060#11066#0" expanded="true" />
+                <element signature="e#11134#11140#0" expanded="true" />
+                <element signature="e#11225#11231#0" expanded="true" />
+                <element signature="e#11313#11319#0" expanded="true" />
+                <element signature="e#11415#11421#0" expanded="true" />
                 <element signature="e#12425#12431#0" expanded="true" />
-                <element signature="e#12555#12561#0" expanded="true" />
+                <element signature="e#12558#12564#0" expanded="true" />
                 <element signature="e#12756#12762#0" expanded="true" />
               </folding>
             </state>
@@ -33,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="1725">
               <caret line="115" selection-start-line="115" selection-end-line="119" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,6 +63,7 @@
       <find>circle</find>
       <find>Flashcard</find>
       <find>youtu</find>
+      <find>si</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,7 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,17 +179,18 @@
       <workItem from="1577312081026" duration="2994000" />
       <workItem from="1577990989295" duration="5978000" />
       <workItem from="1578004513022" duration="6940000" />
+      <workItem from="1578249639693" duration="1258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72361000" />
+    <option name="totallyTimeSpent" value="73619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1583" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19013627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19208306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,26 +350,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
+    <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="115" selection-start-line="115" selection-end-line="119" selection-end-column="22" />
+        <state relative-caret-position="421">
+          <caret line="265" column="46" lean-forward="true" selection-start-line="265" selection-start-column="46" selection-end-line="265" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11890#11896#0" expanded="true" />
+            <element signature="e#11060#11066#0" expanded="true" />
+            <element signature="e#11134#11140#0" expanded="true" />
+            <element signature="e#11225#11231#0" expanded="true" />
+            <element signature="e#11313#11319#0" expanded="true" />
+            <element signature="e#11415#11421#0" expanded="true" />
+            <element signature="e#12425#12431#0" expanded="true" />
+            <element signature="e#12558#12564#0" expanded="true" />
+            <element signature="e#12756#12762#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_dance.html">
+    <entry file="file://$PROJECT_DIR$/src/project/project_quizbot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1247">
-          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        <state relative-caret-position="1725">
+          <caret line="115" selection-start-line="115" selection-end-line="119" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12425#12431#0" expanded="true" />
-            <element signature="e#12555#12561#0" expanded="true" />
-            <element signature="e#12756#12762#0" expanded="true" />
+            <element signature="e#11890#11896#0" expanded="true" />
           </folding>
         </state>
       </provider>
