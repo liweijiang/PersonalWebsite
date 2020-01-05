@@ -129,10 +129,36 @@ a.effect-stretch:hover:before {
   padding-bottom: 1%;
 }
 
+.knockout-font {
+  vertical-align: middle;
+  text-align: center;
+  font-size:50pt;
+  font-weight: bold;
+  /* lightblue  #90EE90 #98FB98 */
+  background: linear-gradient(110deg, #88d8b0 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #F0E68C 34%, #E0FFFF 34%);
+  background-size: 400%;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
 
+.knockout-font {
+  animation: Gradient 5s ease infinite;
+  -webkit-animation: Gradient 15s ease infinite;
+  -moz-animation: Gradient 5s ease infinite;
+}
 
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 30% 50%
+  }
+  50% {
+    background-position: 25% 50%
+  }
+  100% {
+    background-position: 30% 50%
+  }
 
-
+}
 
 
 

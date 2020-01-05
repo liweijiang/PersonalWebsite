@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/project/project_migraine.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/project_migraine.html" afterDir="false" />
     </list>
@@ -14,13 +16,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/project/project_migraine.html">
+        <entry file="file://$PROJECT_DIR$/css/custom/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="783">
+              <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5531#5537#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,6 +54,8 @@
       <find>Flashcard</find>
       <find>youtu</find>
       <find>si</find>
+      <find>Liwei Jiang</find>
+      <find>liwei</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,7 +66,6 @@
       <list>
         <option value="$PROJECT_DIR$/project_quizbot.html" />
         <option value="$PROJECT_DIR$/project_bookbuddy.html" />
-        <option value="$PROJECT_DIR$/css/custom/index.css" />
         <option value="$PROJECT_DIR$/project/project_migraine.html" />
         <option value="$PROJECT_DIR$/project/project_stress.html" />
         <option value="$PROJECT_DIR$/css/custom/life.css" />
@@ -68,8 +79,9 @@
         <option value="$PROJECT_DIR$/src/project/project_dance.html" />
         <option value="$PROJECT_DIR$/src/project/project_englishbot.html" />
         <option value="$PROJECT_DIR$/src/project/project_stress.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/project/project_migraine.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom/index.css" />
       </list>
     </option>
   </component>
@@ -89,6 +101,17 @@
             <path>
               <item name="PersonalWebsite.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="PersonalWebsite.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalWebsite.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalWebsite.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalWebsite.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalWebsite.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PersonalWebsite.io" type="b2602c69:ProjectViewProjectNode" />
@@ -160,17 +183,18 @@
       <workItem from="1577990989295" duration="5978000" />
       <workItem from="1578004513022" duration="6940000" />
       <workItem from="1578249639693" duration="5597000" />
+      <workItem from="1578259814950" duration="1867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77958000" />
+    <option name="totallyTimeSpent" value="79825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1583" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19208306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19467878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -208,13 +232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="104" selection-start-line="104" selection-end-line="131" />
         </state>
       </provider>
     </entry>
@@ -332,24 +349,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/project_migraine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="278" column="8" selection-start-line="278" selection-start-column="8" selection-end-line="278" selection-end-column="8" />
+        <state relative-caret-position="358">
+          <caret line="69" column="35" lean-forward="true" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/project/project_migraine.html">
+    <entry file="file://$PROJECT_DIR$/css/custom/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5531#5537#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="783">
+          <caret line="161" lean-forward="true" selection-start-line="161" selection-end-line="161" />
         </state>
       </provider>
     </entry>
