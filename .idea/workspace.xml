@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8639484c-e520-477c-80e0-ca330199e533" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project_bookbuddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project_bookbuddy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project_dance.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project_dance.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/project_englishbot.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project_englishbot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project_stress.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project_stress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/project/project_englishbot_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/project/project_englishbot_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/project/project_englishbot_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/project/project_englishbot_2.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,14 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/project_dance.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="238" column="75" selection-start-line="238" selection-start-column="75" selection-end-line="238" selection-end-column="75" />
+            <state relative-caret-position="145">
+              <caret line="222" column="126" selection-start-line="222" selection-start-column="126" selection-end-line="222" selection-end-column="126" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/project_englishbot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="174" column="54" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -82,8 +90,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/project/project_bookbuddy.html" />
         <option value="$PROJECT_DIR$/project/project_stress.html" />
-        <option value="$PROJECT_DIR$/project/project_englishbot.html" />
         <option value="$PROJECT_DIR$/project/project_dance.html" />
+        <option value="$PROJECT_DIR$/project/project_englishbot.html" />
       </list>
     </option>
   </component>
@@ -97,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,18 +182,19 @@
       <workItem from="1578004513022" duration="6940000" />
       <workItem from="1578249639693" duration="5597000" />
       <workItem from="1578259814950" duration="3697000" />
-      <workItem from="1578265475785" duration="1312000" />
+      <workItem from="1578265475785" duration="1564000" />
+      <workItem from="1580162611385" duration="1319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82967000" />
+    <option name="totallyTimeSpent" value="84538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1583" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19727449" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19987021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -346,20 +355,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/project_englishbot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/project_dance.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="238" column="75" selection-start-line="238" selection-start-column="75" selection-end-line="238" selection-end-column="75" />
+        <state relative-caret-position="145">
+          <caret line="222" column="126" selection-start-line="222" selection-start-column="126" selection-end-line="222" selection-end-column="126" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/project_englishbot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="174" column="54" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
         </state>
       </provider>
     </entry>
